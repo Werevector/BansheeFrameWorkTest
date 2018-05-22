@@ -1,0 +1,22 @@
+﻿  Main.cpp
+D:\Programming\C++\Offline\bsframeworktest\Main.cpp(7): error C2027: use of undefined type 'bs::SceneObject'
+  D:\Programming\C++\Libraries\bsf\include\bsfCore\BsCorePrerequisites.h(373): note: see declaration of 'bs::SceneObject'
+D:\Programming\C++\Offline\bsframeworktest\Main.cpp(7): error C3861: 'create': identifier not found
+D:\Programming\C++\Offline\bsframeworktest\Main.cpp(8): error C2027: use of undefined type 'bs::SceneObject'
+  D:\Programming\C++\Libraries\bsf\include\bsfCore\BsCorePrerequisites.h(373): note: see declaration of 'bs::SceneObject'
+D:\Programming\C++\Offline\bsframeworktest\Main.cpp(8): error C2039: 'addComponent': is not a member of 'bs::GameObjectHandle<bs::SceneObject>'
+  D:\Programming\C++\Libraries\bsf\include\bsfCore\BsCorePrerequisites.h(653): note: see declaration of 'bs::GameObjectHandle<bs::SceneObject>'
+D:\Programming\C++\Offline\bsframeworktest\Main.cpp(9): error C2027: use of undefined type 'bs::SceneObject'
+  D:\Programming\C++\Libraries\bsf\include\bsfCore\BsCorePrerequisites.h(373): note: see declaration of 'bs::SceneObject'
+D:\Programming\C++\Offline\bsframeworktest\Main.cpp(9): error C2039: 'setPosition': is not a member of 'bs::GameObjectHandle<bs::SceneObject>'
+  D:\Programming\C++\Libraries\bsf\include\bsfCore\BsCorePrerequisites.h(653): note: see declaration of 'bs::GameObjectHandle<bs::SceneObject>'
+D:\Programming\C++\Offline\bsframeworktest\Main.cpp(9): error C2027: use of undefined type 'bs::Vector3'
+  D:\Programming\C++\Libraries\bsf\include\bsfUtility\Prerequisites/BsFwdDeclUtil.h(59): note: see declaration of 'bs::Vector3'
+D:\Programming\C++\Offline\bsframeworktest\Main.cpp(10): error C2027: use of undefined type 'bs::SceneObject'
+  D:\Programming\C++\Libraries\bsf\include\bsfCore\BsCorePrerequisites.h(373): note: see declaration of 'bs::SceneObject'
+D:\Programming\C++\Offline\bsframeworktest\Main.cpp(10): error C2039: 'lookAt': is not a member of 'bs::GameObjectHandle<bs::SceneObject>'
+  D:\Programming\C++\Libraries\bsf\include\bsfCore\BsCorePrerequisites.h(653): note: see declaration of 'bs::GameObjectHandle<bs::SceneObject>'
+D:\Programming\C++\Offline\bsframeworktest\Main.cpp(10): error C2027: use of undefined type 'bs::Vector3'
+  D:\Programming\C++\Libraries\bsf\include\bsfUtility\Prerequisites/BsFwdDeclUtil.h(59): note: see declaration of 'bs::Vector3'
+D:\Programming\C++\Offline\bsframeworktest\Main.cpp(11): error C2352: 'bs::CoreApplication::runMainLoop': illegal call of non-static member function
+  D:\Programming\C++\Libraries\bsf\include\bsfCore\BsCoreApplication.h(49): note: see declaration of 'bs::CoreApplication::runMainLoop'

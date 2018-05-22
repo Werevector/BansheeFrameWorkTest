@@ -1,0 +1,3 @@
+D:/Programming/C++/Offline/bsframeworktest/build/CMakeFiles/myApp.dir
+D:/Programming/C++/Offline/bsframeworktest/build/CMakeFiles/ALL_BUILD.dir
+D:/Programming/C++/Offline/bsframeworktest/build/CMakeFiles/ZERO_CHECK.dir
